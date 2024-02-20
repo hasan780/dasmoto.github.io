@@ -1,0 +1,50 @@
+* {
+    font-family: Helvetica;
+    padding: 0 auto;
+}
+
+#header {
+    position: relative;
+    background-image: url("C:/Users/hshai/OneDrive/Desktop/projects/Dasmoto's_Arts_and_Crafts_Website/pattern.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 55px 0 55px 0;
+}
+
+#header h1 {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0em 1em;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#Brushes h2 {
+    font-size: 32px;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#Frames h2 {
+    font-size: 32px;
+    color: white;
+    background-color: lightcoral;
+}
+
+#Paint h2 {
+    font-size: 32px;
+    color: white;
+    background-color: skyblue;
+}
+
+p strong {
+    font-weight: bold;
+    color: blue;
+}
